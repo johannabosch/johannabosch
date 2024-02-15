@@ -2,7 +2,7 @@
 # Welcome to my Github!
 
 
-<img align="center" alt="GIF" src="https://github.com/johannabosch/johannabosch/blob/main/header.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/johannabosch/johannabosch/blob/main/header.gif"/>
 
 
 #### About Me
