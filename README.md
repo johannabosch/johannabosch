@@ -1,10 +1,6 @@
 
 # Welcome to my Github!
 
-
-<img align="center" alt="GIF" src="https://github.com/johannabosch/johannabosch/blob/main/header.gif" />
-
-
 #### About Me
 
 I am a biologist from Canada, with experience in bioinformatics and geochemical data analysis. My past research focused on reconstructing past seabird populations by tracking geochemical and biological shifts in sedimentary records taken from ponds receiving seabird nutrients. I have also researched the composition of the seabird microbiome using amplicon and metagenomic sequencing. I would like to focus my future research on seabird ecology and oceanic island conservation.
