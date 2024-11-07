@@ -1,24 +1,35 @@
 
 # Welcome to my Github!
 
-#### About Me
+I'm a biologist from Canada, and my main area of research lies in the ecology and conservation of seabirds in the Atlantic ocean! Alongside my work in seabird science, I also have a passion for science-communication and web design. I currently design Javascript based web-apps for academics from all kinds of backgrounds who want to display their research and results in a shareable, interactive format. I have experience analysing DNA sequencing, geochemical, GPS/GLS, demographic and other ecological datasets using R and Python, so my research experience gives me the advantage of working together with an academic team to design unique content that fits the needs of their data. Most of my projects are available here on my Github!
 
-I am a biologist from Canada, with experience in bioinformatics and geochemical data analysis. My past research focused on reconstructing past seabird populations by tracking geochemical and biological shifts in sedimentary records taken from ponds receiving seabird nutrients. I have also researched the composition of the seabird microbiome using amplicon and metagenomic sequencing. I would like to focus my future research on seabird ecology and oceanic island conservation.
+### Some of my past projects have involved:
 
+**(a)**     using paleolimnological methods (ie. tracking geochemical and biological shifts in sedimentary records) to reconstruct past seabird populations ([see repo](https://github.com/johannabosch/Paleolimnological_Analysis_in_R)). See the publication in Science Reports [here](https://www.nature.com/articles/s41598-024-69860-z):
+
+```
+Bosch, JL., Álvarez-Manzaneda, I., Smol, J.P. et al. Blending census and paleolimnological data
+allows for tracking the establishment and growth of a major gannet colony over several centuries.
+Sci Rep 14, 20462 (2024). https://www.nature.com/articles/s41598-024-69860-z
+```
+        
+**(b)**     amplicon and metagenomic sequencing analyses to assess the composition and diversity of the seabird gut microbiome, and sedimentary DNA from sediment cores ([see repo](https://github.com/johannabosch/Paleolimnological_Analysis_in_R)).
+
+**(c)**     building a web-app to display results from an integrated population modelling study on the Endangered Piping Plover in Atlantic Canada
+
+
+### More About Me
 
 🎓    MSc. in Biology (Memorial University of Newfoundland)
 
-🌐    Most of my projects are available on Github
-
-⚡    Currently learning Parallel programming and Matplotlib
-
 💻    I work with ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) and  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+⚡    Currently learning more about Parallel programming and HTML5
 
 <hr>
 
 
-#### Follow Me
+#### Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-yohannabosch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoyhannabosch@gmail.com)](mailto:yohannabosch@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-johanna-bosch?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johanna-bosch-6bb280127/)](https://www.linkedin.com/in/johanna-bosch-6bb280127/)
